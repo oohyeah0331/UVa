@@ -1,6 +1,6 @@
-# UVa
+# LeetCode in Python
 
-Coding practice use Python and Java
+[LeetCode Online Judge](https://leetcode.com/), a best place to expand your knowledge and get prepared for your next interview. It contains many **algorithm questions** and most of them are real interview questions of **Google, Facebook, LinkedIn, Apple**, etc. I will use Python to solve and improve my coding skill. Please feel free to reference and **STAR** to support this repo, thank you!
 
 ## 說明
 現今的解題網站越來越多，想練習程式語言、增加熟練度就到網上練習吧！在這裡和大家分享解出來的題目，  
@@ -8,7 +8,7 @@ Coding practice use Python and Java
 
 ## 語言
 - Java 8
-- python 3.6   
+- python 3.7   
 
 ## License
 MIT license
